@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Alif Mahmud
-- 👀 I’m interested in  becoming a programmer.
-- 🌱 I’m currently learning HTML and CSS.
-- 📫You can contact me via facebook https://www.facebook.com/alif.mahmud.161
+Fuck off
